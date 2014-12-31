@@ -1,0 +1,28 @@
+body {
+background-color: #000000;
+}
+
+img {
+position: absolute;
+left: 340px;
+top: -100px;
+height: 600px;
+}
+
+#nav_bar {
+position: relative;
+margin-right: auto;
+top: 400px;
+}
+
+.td_style {
+color: yellow;
+padding-left: 186px;
+font-size: 24px;
+}
+
+#line {
+height:1px;
+background-color: white;
+border-bottom:1px solid white;
+}
